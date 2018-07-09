@@ -1,0 +1,10 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+.env
+
+nn
+nohup.log
+deno.nn
